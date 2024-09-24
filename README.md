@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phanuel Wayne aka @ericson949
-- 👀 I’m interested in Web developement using React.JS,TS, Node.JS,
+- 👀 I’m interested in Web developement using ReactJS,TS, NestJS,
 - 🌱 I’m currently learning Hexagonal Architecture, ATDD
 - 💞️ I’m looking to collaborate on Web or mobile developement using my stack;
 - you can also look to my work at https://phanuelwayne.vercel.app/
