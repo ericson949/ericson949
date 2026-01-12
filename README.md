@@ -13,7 +13,7 @@
         src="https://img.shields.io/badge/phanuel%20Wayne-grey?style=for-the-badge&logo=x"
         alt="kavindzmw"
     /></a>
-    <img src="https://komarev.com/ghpvc/?username=foverokavindz&label=Profile%20views&color=0e75b6&style=flat" alt="ericson949"/>
+    <img src="https://komarev.com/ghpvc/?username=ericson949&label=Profile%20views&color=0e75b6&style=flat" alt="ericson949"/>
   </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Image" />
 - 👀 I’m interested in Web developement using ReactJS,TS, NestJS,
