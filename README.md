@@ -15,11 +15,17 @@
     /></a>
     <img src="https://komarev.com/ghpvc/?username=ericson949&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ericson949"/>
   </p>
+  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Image" />
-- 👀 I’m interested in Web developement using ReactJS,TS, NestJS,
+
+- 👀 I’m interested in Web developement using ReactJS,TS, NestJS
+  
 - 🌱 I’m currently learning Hexagonal Architecture, ATDD
-- 💞️ I’m looking to collaborate on Web or mobile developement using my stack;
+  
+- 💞️ I’m looking to collaborate on Web or mobile developement using my stack
+  
 - you can also look to my work at  [Portfolio↗️](https://phanuel-wayne.vercel.app/)
+  
 - 📫 How to reach me **ericson949@gmail.com**...
 
 <!---
