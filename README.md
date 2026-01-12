@@ -10,10 +10,10 @@
 
 <p align="center">    <a href="https://x.com/waynephanuel1" target="blank"
       ><img
-        src="https://img.shields.io/twitter/follow/kavindzmw?logo=twitter&style=flat"
+        src="https://img.shields.io/twitter/follow/ericson949?logo=twitter&style=flat"
         alt="kavindzmw"
     /></a>
-    <img src="https://komarev.com/ghpvc/?username=foverokavindz&label=Profile%20views&color=0e75b6&style=flat" alt="foverokavindz"/>
+    <img src="https://komarev.com/ghpvc/?username=foverokavindz&label=Profile%20views&color=0e75b6&style=flat" alt="ericson949"/>
   </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Image" />
 - 👀 I’m interested in Web developement using ReactJS,TS, NestJS,
